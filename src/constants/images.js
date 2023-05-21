@@ -16,7 +16,7 @@ import laurels from "../assets/images/laurels.png";
 import award01 from "../assets/images/award01.png";
 import award02 from "../assets/images/award02.png";
 import award03 from "../assets/images/award03.png";
-import award04 from "../assets/images/award04.png";
+// import award04 from "../assets/images/award04.png";
 import award05 from "../assets/images/award05.png";
 import sign from "../assets/images/sign.png";
 import quote from "../assets/images/quote.png";
@@ -42,7 +42,7 @@ export default {
   award01,
   award02,
   award03,
-  award04,
+  // award04,
   award05,
   sign,
   quote,
